@@ -15,8 +15,8 @@ To generate the svgpost files, I used my algorithm in the command line in the fo
 `lpi.py xpre.svg xpost.svg`  
 again, with x replaced with the number of the file
 
-It can also be used generically as follows
-lpi.py <input> <output>
+It can also be used generically as follows  
+`lpi.py <input> <output>`
 
 My algorithm requires that any fonts used in the file are also in the directory with the algorithm.
 It also requires Pillow be installed (I installed this with pip but you can use whatever you wish)
