@@ -21,3 +21,4 @@ It can also be used generically as follows
 My algorithm requires that any fonts used in the file are also in the directory with the algorithm.
 It also requires Pillow be installed (I installed this with pip but you can use whatever you wish)
 It uses ElementTree too but I think that's preinstalled in python? I certainly don't remember installing it and I can't find it in pip's list
+Additionally, starting on line 1033, you will find the various preference variables mentioned in the design section, if you would like to alter them
