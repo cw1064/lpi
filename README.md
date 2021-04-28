@@ -7,12 +7,12 @@ lpi.py		- my algorithm
 two ttfs	- required for function of algorithm  
 this file	- hi!  
 
-To generate the svgpre files, I used the graphviz command as follows
-dot -Tsvg x.gv -o xpre.svg
+To generate the svgpre files, I used graphviz in the command line as follows  
+`dot -Tsvg x.gv -o xpre.svg`  
 With x replaced with the number of the file
 
-To generate the svgpost files, I used my algorithm in the following way
-lpi.py xpre.svg xpost.svg
+To generate the svgpost files, I used my algorithm in the command line in the following way  
+`lpi.py xpre.svg xpost.svg`  
 again, with x replaced with the number of the file
 
 It can also be used generically as follows
