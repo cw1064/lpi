@@ -1,0 +1,14 @@
+digraph G {
+	node [shape="box"];
+	splines = ortho
+	"constitution maze";
+	"ticket entry";
+	"pill crusade";
+	"calculation dome";
+	"childish accident";
+	"constitution maze" -> "ticket entry" [xlabel = "seem affinity"]
+	"constitution maze" -> "pill crusade" [xlabel = "notebook advance"]
+	"pill crusade" -> "calculation dome" [xlabel = "blade replace"]
+	"calculation dome" -> "ticket entry" [xlabel = "install engagement"]
+	"calculation dome" -> "childish accident" [xlabel = "incapable happen"]
+}

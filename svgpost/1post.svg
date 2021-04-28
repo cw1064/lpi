@@ -1,0 +1,110 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="320pt" height="332pt" viewBox="-3.00 0.00 320.00 332.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 328)">
+<ns0:title>G</ns0:title>
+<ns0:polygon fill="white" stroke="transparent" points="-4,4 -4,-328 313,-328 313,4 -4,4" />
+
+<ns0:g id="node1" class="node">
+<ns0:title>accident allowance</ns0:title>
+<ns0:polygon fill="none" stroke="black" points="169,-324 47,-324 47,-288 169,-288 169,-324" />
+<ns0:text text-anchor="middle" x="108" y="-302.3" font-family="Times New Roman,serif" font-size="14.00">accident allowance</ns0:text>
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>disgrace sport</ns0:title>
+<ns0:polygon fill="none" stroke="black" points="156,-252 60,-252 60,-216 156,-216 156,-252" />
+<ns0:text text-anchor="middle" x="108" y="-230.3" font-family="Times New Roman,serif" font-size="14.00">disgrace sport</ns0:text>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>accident allowance-&gt;disgrace sport</ns0:title>
+<ns0:path fill="none" stroke="black" d="M124,-287.83C124,-287.83 124,-262.41 124,-262.41" />
+<ns0:polygon fill="black" stroke="black" points="127.5,-262.41 124,-252.41 120.5,-262.41 127.5,-262.41" />
+<ns0:text text-anchor="start" x="125.19021739130434" y="-270.3591304347826" font-family="Times New Roman,serif" font-size="8.33">blast reputation</ns0:text>
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>business eavesdrop</ns0:title>
+<ns0:polygon fill="none" stroke="black" points="300,-252 174,-252 174,-216 300,-216 300,-252" />
+<ns0:text text-anchor="middle" x="237" y="-230.3" font-family="Times New Roman,serif" font-size="14.00">business eavesdrop</ns0:text>
+</ns0:g>
+
+<ns0:g id="edge7" class="edge">
+<ns0:title>accident allowance-&gt;business eavesdrop</ns0:title>
+<ns0:path fill="none" stroke="black" d="M169.06,-306C176.06,-306 180.75,-306 180.75,-306 180.75,-306 180.75,-262.17 180.75,-262.17" />
+<ns0:polygon fill="black" stroke="black" points="184.25,-262.17 180.75,-252.17 177.25,-262.17 184.25,-262.17" />
+<ns0:text text-anchor="start" x="182.75" y="-267.99" font-family="Times New Roman,serif" font-size="14.00">association scrape</ns0:text>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>shoot stadium</ns0:title>
+<ns0:polygon fill="none" stroke="black" points="282.5,-324 187.5,-324 187.5,-288 282.5,-288 282.5,-324" />
+<ns0:text text-anchor="middle" x="235" y="-302.3" font-family="Times New Roman,serif" font-size="14.00">shoot stadium</ns0:text>
+</ns0:g>
+
+<ns0:g id="edge8" class="edge">
+<ns0:title>disgrace sport-&gt;accident allowance</ns0:title>
+<ns0:path fill="none" stroke="black" d="M92,-252.17C92,-252.17 92,-277.59 92,-277.59" />
+<ns0:polygon fill="black" stroke="black" points="88.5,-277.59 92,-287.59 95.5,-277.59 88.5,-277.59" />
+<ns0:text text-anchor="end" x="90.0" y="-256.88" font-family="Times New Roman,serif" font-size="14.00">producer calorie</ns0:text>
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>equation steep</ns0:title>
+<ns0:polygon fill="none" stroke="black" points="285.5,-180 188.5,-180 188.5,-144 285.5,-144 285.5,-180" />
+<ns0:text text-anchor="middle" x="237" y="-158.3" font-family="Times New Roman,serif" font-size="14.00">equation steep</ns0:text>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>business eavesdrop-&gt;equation steep</ns0:title>
+<ns0:path fill="none" stroke="black" d="M237,-215.83C237,-215.83 237,-190.41 237,-190.41" />
+<ns0:polygon fill="black" stroke="black" points="240.5,-190.41 237,-180.41 233.5,-190.41 240.5,-190.41" />
+<ns0:text text-anchor="end" x="235.0" y="-195.12" font-family="Times New Roman,serif" font-size="14.00">go staff</ns0:text>
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>beneficiary rumour</ns0:title>
+<ns0:polygon fill="none" stroke="black" points="170,-180 48,-180 48,-144 170,-144 170,-180" />
+<ns0:text text-anchor="middle" x="109" y="-158.3" font-family="Times New Roman,serif" font-size="14.00">beneficiary rumour</ns0:text>
+</ns0:g>
+
+<ns0:g id="node7" class="node">
+<ns0:title>orbit hour</ns0:title>
+<ns0:polygon fill="none" stroke="black" points="209,-108 137,-108 137,-72 209,-72 209,-108" />
+<ns0:text text-anchor="middle" x="173" y="-86.3" font-family="Times New Roman,serif" font-size="14.00">orbit hour</ns0:text>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>beneficiary rumour-&gt;orbit hour</ns0:title>
+<ns0:path fill="none" stroke="black" d="M153.5,-143.83C153.5,-143.83 153.5,-118.41 153.5,-118.41" />
+<ns0:polygon fill="black" stroke="black" points="157,-118.41 153.5,-108.41 150,-118.41 157,-118.41" />
+<ns0:text text-anchor="end" x="151.5" y="-124.62" font-family="Times New Roman,serif" font-size="14.00">voice bible</ns0:text>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>equation steep-&gt;orbit hour</ns0:title>
+<ns0:path fill="none" stroke="black" d="M198.75,-143.83C198.75,-143.83 198.75,-118.41 198.75,-118.41" />
+<ns0:polygon fill="black" stroke="black" points="202.25,-118.41 198.75,-108.41 195.25,-118.41 202.25,-118.41" />
+<ns0:text text-anchor="end" x="197.83947368421053" y="-127.4778947368421" font-family="Times New Roman,serif" font-size="6.37">angle protection</ns0:text>
+</ns0:g>
+
+<ns0:g id="node8" class="node">
+<ns0:title>squash overwhelm</ns0:title>
+<ns0:polygon fill="none" stroke="black" points="265,-36 145,-36 145,0 265,0 265,-36" />
+<ns0:text text-anchor="middle" x="205" y="-14.3" font-family="Times New Roman,serif" font-size="14.00">squash overwhelm</ns0:text>
+</ns0:g>
+
+<ns0:g id="edge6" class="edge">
+<ns0:title>equation steep-&gt;squash overwhelm</ns0:title>
+<ns0:path fill="none" stroke="black" d="M237,-143.76C237,-143.76 237,-46.09 237,-46.09" />
+<ns0:polygon fill="black" stroke="black" points="240.5,-46.09 237,-36.09 233.5,-46.09 240.5,-46.09" />
+<ns0:text text-anchor="start" x="239.0" y="-86.925" font-family="Times New Roman,serif" font-size="14.00">double swap</ns0:text>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>orbit hour-&gt;squash overwhelm</ns0:title>
+<ns0:path fill="none" stroke="black" d="M177,-71.83C177,-71.83 177,-46.41 177,-46.41" />
+<ns0:polygon fill="black" stroke="black" points="180.5,-46.41 177,-36.41 173.5,-46.41 180.5,-46.41" />
+<ns0:text text-anchor="end" x="175.0" y="-52.62" font-family="Times New Roman,serif" font-size="14.00">flavour lack</ns0:text>
+</ns0:g>
+</ns0:g>
+</ns0:svg>

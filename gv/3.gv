@@ -1,0 +1,50 @@
+digraph G {
+	node [shape="box"];
+	splines = ortho
+	"call cylinder";
+	"if ambition";
+	"key superior";
+	"wagon wood";
+	"snuggle flourish";
+	"likely software";
+	"dramatic confession";
+	"lift calorie";
+	"concert yearn";
+	"model fade";
+	"revolution advertise";
+	"approval unlawful";
+	"exposure threat";
+	"brain edge";
+	"wander ignore";
+	"high spray";
+	"grandmother reservoir";
+	"release allowance";
+	"convulsion salon";
+	"explode miracle";
+	"call cylinder" -> "key superior" [xlabel = "snatch fur"]
+	"call cylinder" -> "snuggle flourish" [xlabel = "sport past"]
+	"call cylinder" -> "exposure threat" [xlabel = "tread fog"]
+	"if ambition" -> "dramatic confession" [xlabel = "flour dry"]
+	"key superior" -> "lift calorie" [xlabel = "material aquarium"]
+	"wagon wood" -> "lift calorie" [xlabel = "scrap public"]
+	"wagon wood" -> "high spray" [xlabel = "deal cupboard"]
+	"snuggle flourish" -> "model fade" [xlabel = "communist theorist"]
+	"snuggle flourish" -> "approval unlawful" [xlabel = "indirect hold"]
+	"likely software" -> "model fade" [xlabel = "film improve"]
+	"likely software" -> "revolution advertise" [xlabel = "find host"]
+	"likely software" -> "approval unlawful" [xlabel = "tent short"]
+	"dramatic confession" -> "approval unlawful" [xlabel = "dangerous digress"]
+	"dramatic confession" -> "exposure threat" [xlabel = "grandfather flower"]
+	"dramatic confession" -> "explode miracle" [xlabel = "reserve fee"]
+	"dramatic confession" -> "brain edge" [xlabel = "widen substitute"]
+	"lift calorie" -> "wander ignore" [xlabel = "casualty grow"]
+	"lift calorie" -> "high spray" [xlabel = "domestic breast"]
+	"concert yearn" -> "high spray" [xlabel = "navy replace"]
+	"concert yearn" -> "grandmother reservoir" [xlabel = "productive brand"]
+	"model fade" -> "grandmother reservoir" [xlabel = "stick railroad"]
+	"revolution advertise" -> "release allowance" [xlabel = "chemistry graduate"]
+	"exposure threat" -> "grandmother reservoir" [xlabel = "novel dull"]
+	"brain edge" -> "release allowance" [xlabel = "laser grow"]
+	"high spray" -> "convulsion salon" [xlabel = "grind scrap"]
+	"high spray" -> "explode miracle" [xlabel = "danger response"]
+}

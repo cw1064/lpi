@@ -1,0 +1,20 @@
+digraph G {
+	node [shape="box"];
+	splines = ortho
+	"accident allowance";
+	"shoot stadium";
+	"disgrace sport";
+	"business eavesdrop";
+	"beneficiary rumour";
+	"equation steep";
+	"orbit hour";
+	"squash overwhelm";
+	"business eavesdrop" -> "equation steep" [xlabel = "go staff"]
+	"beneficiary rumour" -> "orbit hour" [xlabel = "voice bible"]
+	"accident allowance" -> "disgrace sport" [xlabel = "blast reputation"]
+	"equation steep" -> "orbit hour" [xlabel = "angle protection"]
+	"orbit hour" -> "squash overwhelm" [xlabel = "flavour lack"]
+	"equation steep" -> "squash overwhelm" [xlabel = "double swap"]
+	"accident allowance" -> "business eavesdrop" [xlabel = "association scrape"]
+	"disgrace sport" -> "accident allowance" [xlabel = "producer calorie"]
+}

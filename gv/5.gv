@@ -1,0 +1,30 @@
+digraph G {
+	node [shape="box"];
+	splines = ortho
+	"shed chalk" [fontname = "helvetica"];
+	"figure inspire" [fontname = "helvetica"];
+	"staff to" [fontname = "helvetica"];
+	"stunning yearn" [fontname = "helvetica"];
+	"plaster home" [fontname = "helvetica"];
+	"closed disk" [fontname = "helvetica"];
+	"experiment combination" [fontname = "helvetica"];
+	"example restaurant" [fontname = "helvetica"];
+	"quote selection" [fontname = "helvetica"];
+	"honest satisfied" [fontname = "helvetica"];
+	"attachment insure" [fontname = "helvetica"];
+	"tolerant true" [fontname = "helvetica"];
+	"stunning yearn" -> "tolerant true" [xlabel = "lung ribbon", fontname = "helvetica"]
+	"attachment insure" -> "honest satisfied" [xlabel = "tell prestige", fontname = "helvetica"]
+	"closed disk" -> "staff to" [xlabel = "funny jealous", fontname = "helvetica"]
+	"staff to" -> "quote selection" [xlabel = "suffer burial", fontname = "helvetica"]
+	"shed chalk" -> "plaster home" [xlabel = "excavation temple", fontname = "helvetica"]
+	"honest satisfied" -> "experiment combination" [xlabel = "relief deport", fontname = "helvetica"]
+	"tolerant true" -> "plaster home" [xlabel = "impound grief", fontname = "helvetica"]
+	"example restaurant" -> "staff to" [xlabel = "mouse haunt", fontname = "helvetica"]
+	"quote selection" -> "plaster home" [xlabel = "appoint prey", fontname = "helvetica"]
+	"example restaurant" -> "tolerant true" [xlabel = "thanks precision", fontname = "helvetica"]
+	"quote selection" -> "attachment insure" [xlabel = "overview ample", fontname = "helvetica"]
+	"staff to" -> "experiment combination" [xlabel = "buffet battery", fontname = "helvetica"]
+	"experiment combination" -> "quote selection" [xlabel = "colin fisherman", fontname = "helvetica"]
+	"figure inspire" -> "example restaurant" [xlabel = "full absense", fontname = "helvetica"]
+}
